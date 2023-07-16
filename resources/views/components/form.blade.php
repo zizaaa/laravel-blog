@@ -14,8 +14,6 @@
 
             <textarea type="text" class="p-2 outline-none rounded-md max-w-full max-h-32" placeholder="Body" name="body"></textarea>
 
-            <input type="text" class="p-2 outline-none rounded-md" placeholder="Category" name="category">
-
             <select name="category" class="p-2 rounded-md outline-none">
                 <option value="Javascript">Javascript</option>
                 <option value="NodeJs">NodeJs</option>
